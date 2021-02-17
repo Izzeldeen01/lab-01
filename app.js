@@ -1,0 +1,1 @@
+alert ('I faced a problem changing the grid size');  
